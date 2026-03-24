@@ -16,13 +16,13 @@ Education
 
 Work experience
 ======
-* March 2011: Research Assistant
+* Mar 2011: Research Assistant
   * Institute of Software, Chinese Academy of Sciences
 
-* July 2014: Associate Professor
+* Jul 2014: Associate Professor
   * Institute of Software, Chinese Academy of Sciences
 
-* October 2025: Professor
+* Oct 2025: Professor
   * Institute of Software, Chinese Academy of Sciences
 
 Honors & Awards
