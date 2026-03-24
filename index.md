@@ -22,8 +22,9 @@ One of my papers was awarded the **Best Paper Award**. My work aims to bridge th
 
 ## 🏆 Honors & Awards
 
-*   **First Prize**, Electronic Information Science and Technology Award (Chinese Institute of Electronics).
-*   **Youth Innovation Promotion Association**, Chinese Academy of Sciences (CAS).
+*   Recipient of the **First Prize**, Electronic Information Science and Technology Award, Chinese Institute of Electronics
+*   Member of the Youth Innovation Promotion Association, Chinese Academy of Sciences
+*   Recipient of the Outstanding Young Talent Program, Institute of Software, Chinese Academy of Sciences
 
 ## ⚡ What's New
 
