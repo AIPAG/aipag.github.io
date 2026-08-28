@@ -39,7 +39,7 @@ Publications
   
 PC Member/Reviewer
 ======
-* 2026: TIFS
+* 2026: TIFS, TDSC, AAAI, NDSS 
 * 2025: WWW, TIFS, Cybersecurity
 * 2024: Cybersecurity
 
