@@ -28,6 +28,8 @@ One of my papers was awarded the **Best Paper Award**. My work aims to bridge th
 
 ## ⚡ What's New
 
+- **[2026.8]** I’ll join the PC of NDSS 2027!
+- **[2026.7]** I’ll join the PC of AAAI 2027!
 - **[2026.01]** One paper got accepted in TIFS 2026!
 - **[2025.10]** I’ll join the PC of www 2026!
 - **[2025.04]** One paper got accepted in SCIS 2025!
